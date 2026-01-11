@@ -1,0 +1,15 @@
+diff
+
+index.html
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Zugfreunde Schweiz</title>
+</head>
+<body>
+  <h1>Zugfreunde Schweiz</h1>
+  <p>Willkommen bei den Zugfreunden aus der Schweiz!</p>
+</body>
+</html>
